@@ -1,2 +1,2 @@
 #!/bin/bash
-Welcome to Commands lesson
+Welcome to Commands lesson.
