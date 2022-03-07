@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "\"(Ôo)'" 
+grep -c -i "bin" /etc/passwd
